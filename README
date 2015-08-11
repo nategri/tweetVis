@@ -1,6 +1,6 @@
 These are the files for my quick data science project that looks at about 8.5 days of tweets posted near San Francisco, CA. Here's a brief description of each program. This is not intended as a full manual, and you'll need to look at the sources to get a full sense of how to use these scripts, especially regarding command line arguments. It is pretty straight forward, though!
 
-You can check out a write-up of some analysis based on these scipts at: https://medium.com/@nategri/data-incubator-project-proposal-data-set-description-and-plots-e485f803bddc
+You can check out a write-up of some analysis based on these scipts at: https://medium.com/@nategri/some-quick-data-science-a-look-at-the-san-francisco-tweetspace-5639b3c2c3b3
 
 makeTweetdb.py
 ------------------
